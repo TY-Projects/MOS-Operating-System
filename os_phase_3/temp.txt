@@ -1,0 +1,1670 @@
+----------Starting Operating System----------
+
+Start Channel : 0 IOI 0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 1
+Inside simulation
+FLag of channel 0 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 2
+Inside simulation
+FLag of channel 0 is busy and has time of : 2
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 3
+Inside simulation
+FLag of channel 0 is busy and has time of : 3
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 4
+Inside simulation
+FLag of channel 0 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 5
+Inside simulation
+FLag of channel 0 is busy and has time of : 5
+Channel 0 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 1
+
+Inside IR1
+$AMJ PCB created for job id : 6 P
+PCB=> TTL:3 TLL:1 TTC:0 LLC:0
+Added an inputful buffer with ibq size : 1 IOI : 5
+Inputful buffer with value $AMJ000600030001                        
+
+IBQ looks like : 
+Size of buffer is  : 1
+$AMJ000600030001                        
+eof: 0
+Starting Channel 1
+Start Channel : 0 IOI 4
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:1 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 6
+Inside simulation
+FLag of channel 0 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+Starting Channel 3, ibq size : 1
+Start Channel : 2 IOI 0
+
+Inputful Buffer q rn looks : 
+Size of buffer is  : 1
+$AMJ000600030001                        
+Channel 3 performs IS on : $AMJ000600030001                        
+Encountered Control card: $AMJ
+
+Loading new Job into Drum....!!!
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 7
+Inside simulation
+FLag of channel 0 is busy and has time of : 2
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 8
+Inside simulation
+FLag of channel 0 is busy and has time of : 3
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 9
+Inside simulation
+FLag of channel 0 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 10
+Inside simulation
+FLag of channel 0 is busy and has time of : 5
+Channel 0 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 0
+
+Inside IR1
+Encountered Program card. P-cout:1 ID:6
+Added an inputful buffer with ibq size : 1 IOI : 5
+Inputful buffer with value GD10PD10H                               
+
+IBQ looks like : 
+Size of buffer is  : 1
+GD10PD10H                               
+eof: 0
+Starting Channel 1
+Start Channel : 0 IOI 4
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:1 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 11
+Inside simulation
+FLag of channel 0 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+Starting Channel 3, ibq size : 1
+Start Channel : 2 IOI 0
+
+Inputful Buffer q rn looks : 
+Size of buffer is  : 1
+GD10PD10H                               
+Channel 3 performs IS on : GD10PD10H                               
+storing at : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 12
+Inside simulation
+FLag of channel 0 is busy and has time of : 2
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 13
+Inside simulation
+FLag of channel 0 is busy and has time of : 3
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 14
+Inside simulation
+FLag of channel 0 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 15
+Inside simulation
+FLag of channel 0 is busy and has time of : 5
+Channel 0 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 0
+
+Inside IR1
+$DTA Encountered 
+Added an inputful buffer with ibq size : 1 IOI : 5
+Inputful buffer with value $DTA                                    
+
+IBQ looks like : 
+Size of buffer is  : 1
+$DTA                                    
+eof: 0
+Starting Channel 1
+Start Channel : 0 IOI 4
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:1 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 16
+Inside simulation
+FLag of channel 0 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+Starting Channel 3, ibq size : 1
+Start Channel : 2 IOI 0
+
+Inputful Buffer q rn looks : 
+Size of buffer is  : 1
+$DTA                                    
+Channel 3 performs IS on : $DTA                                    
+Encountered Control card: $DTA
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 17
+Inside simulation
+FLag of channel 0 is busy and has time of : 2
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 18
+Inside simulation
+FLag of channel 0 is busy and has time of : 3
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 19
+Inside simulation
+FLag of channel 0 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 20
+Inside simulation
+FLag of channel 0 is busy and has time of : 5
+Channel 0 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 0
+
+Inside IR1
+Encountered Data card.
+Added an inputful buffer with ibq size : 1 IOI : 5
+Inputful buffer with value HELLO WOrld                             
+
+IBQ looks like : 
+Size of buffer is  : 1
+HELLO WOrld                             
+eof: 0
+Starting Channel 1
+Start Channel : 0 IOI 4
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:1 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 21
+Inside simulation
+FLag of channel 0 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+Starting Channel 3, ibq size : 1
+Start Channel : 2 IOI 0
+
+Inputful Buffer q rn looks : 
+Size of buffer is  : 1
+HELLO WOrld                             
+Channel 3 performs IS on : HELLO WOrld                             
+storing at : 10
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 22
+Inside simulation
+FLag of channel 0 is busy and has time of : 2
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 23
+Inside simulation
+FLag of channel 0 is busy and has time of : 3
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 24
+Inside simulation
+FLag of channel 0 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 4
+Inside IRI3 with TASK : 0
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:0 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 25
+Inside simulation
+FLag of channel 0 is busy and has time of : 5
+Channel 0 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 0
+
+Inside IR1
+Added an inputful buffer with ibq size : 1 IOI : 5
+Inputful buffer with value $END00066                               
+
+IBQ looks like : 
+Size of buffer is  : 1
+$END00066                               
+found-------------
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:1 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 26
+Inside simulation
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 0
+Starting Channel 3, ibq size : 1
+Start Channel : 2 IOI 1
+
+Inputful Buffer q rn looks : 
+Size of buffer is  : 1
+$END00066                               
+Channel 3 performs IS on : $END00066                               
+Encountered Control card: $END
+
+PCB Values of Job id : 6
+Start address of P , D , O : 0 , 10 , 20
+End address : 10
+Start P_count , D_count : 1 , 1
+
+Job added Load queue. ID:6
+-------------------------------------------------------------
+
+Drum Memory:
+0	GD10	PD10	H___	____	____	____	____	____	____	____	
+10	HELL	O_WO	rld_	____	____	____	____	____	____	____	
+20	____	____	____	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	____	____	____	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+300	____	____	____	____	____	____	____	____	____	____	
+310	____	____	____	____	____	____	____	____	____	____	
+320	____	____	____	____	____	____	____	____	____	____	
+330	____	____	____	____	____	____	____	____	____	____	
+340	____	____	____	____	____	____	____	____	____	____	
+350	____	____	____	____	____	____	____	____	____	____	
+360	____	____	____	____	____	____	____	____	____	____	
+370	____	____	____	____	____	____	____	____	____	____	
+380	____	____	____	____	____	____	____	____	____	____	
+390	____	____	____	____	____	____	____	____	____	____	
+400	____	____	____	____	____	____	____	____	____	____	
+410	____	____	____	____	____	____	____	____	____	____	
+420	____	____	____	____	____	____	____	____	____	____	
+430	____	____	____	____	____	____	____	____	____	____	
+440	____	____	____	____	____	____	____	____	____	____	
+450	____	____	____	____	____	____	____	____	____	____	
+460	____	____	____	____	____	____	____	____	____	____	
+470	____	____	____	____	____	____	____	____	____	____	
+480	____	____	____	____	____	____	____	____	____	____	
+490	____	____	____	____	____	____	____	____	____	____	
+-------------------------------------------------------------
+
+Main Memory:
+0	____	____	____	____	____	____	____	____	____	____	
+10	____	____	____	____	____	____	____	____	____	____	
+20	____	____	____	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	____	____	____	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+-------------------------------------------------------------
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:1  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 27
+Inside simulation
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:1  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 28
+Inside simulation
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 2
+
+0	____	____	____	____	____	____	____	____	____	____	
+10	____	____	____	____	____	____	____	____	____	____	
+20	____	____	____	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	____	____	____	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+
+0	____	____	____	____	____	____	____	____	____	____	
+10	____	____	____	____	____	____	____	____	____	____	
+20	____	____	____	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	____	____	____	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+Start Channel : 2 IOI 1
+inside Load for job id : 6 p count is : 0
+Job loaded of id : 6
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:1  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+
+Executing Process: 6
+Mapped IC to RA=> 0 : 280
+1 CURRENT ttc
+Page fault=> Setting PI=3 : 
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 29
+Inside simulation
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 3 : SI : 0 : TI : 0 IOI : 1
+
+0	0028	____	____	____	____	____	____	____	____	____	
+10	____	____	____	____	____	____	____	____	____	____	
+20	____	____	____	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	GD10	PD10	H___	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+Valid Page Fault.
+Allocating page 1 to frame 10
+
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:1  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+
+Executing Process: 6
+Mapped IC to RA=> 0 : 280
+2 CURRENT ttc
+-------Evaluating Instruction-------------GD10
+Setting SI=>1
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 30
+Inside simulation
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 1 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 3
+Start Channel : 2 IOI 1
+Data read successfully
+Process added to ready queue
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:1  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+
+Executing Process: 6
+Mapped IC to RA=> 1 : 281
+3 CURRENT ttc
+-------Evaluating Instruction-------------PD10
+Setting SI=>2
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 31
+Inside simulation
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 2 : TI : 0 IOI : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:1  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 32
+Inside simulation
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 4
+Start Channel : 2 IOI 1
+Data written successfully
+Process added to ready queue
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:1  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+
+Executing Process: 6
+Mapped IC to RA=> 2 : 282
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 33
+Inside simulation
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 3 : TI : 0 IOI : 1
+Job Completed Successfully
+
+Terminate msg added to 6 msg is: Terminated Succesfully
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:1
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 34
+Inside simulation
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+OutputfulBufferQ looks like : 0
+Size of buffer is  : 1
+HELLO WOrld                             
+Start Channel : 2 IOI 3
+Inside IRI2 for : HELLO WOrld                              , OBQ size : 1
+Starting Channel 2
+Start Channel : 1 IOI 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:1
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 35
+Inside simulation
+FLag of channel 1 is busy and has time of : 1
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:1
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 36
+Inside simulation
+FLag of channel 1 is busy and has time of : 2
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+All output lines done Terminated Succesfully
+
+Freeing.....
+28 1 
+Outputful buffer is : 
+Size of buffer is  : 1
+Terminated Succesfully
+Start Channel : 2 IOI 3
+Inside IRI2 for : Terminated Succesfully , OBQ size : 4
+Starting Channel 2
+Start Channel : 1 IOI 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 37
+Inside simulation
+FLag of channel 1 is busy and has time of : 1
+FLag of channel 2 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 38
+Inside simulation
+FLag of channel 1 is busy and has time of : 2
+FLag of channel 2 is busy and has time of : 2
+Channel 2 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 39
+Inside simulation
+FLag of channel 1 is busy and has time of : 3
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 40
+Inside simulation
+FLag of channel 1 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 41
+Inside simulation
+FLag of channel 1 is busy and has time of : 5
+Channel 1 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 7
+Inside IRI3 with TASK : 1
+Inside IRI2 for :                                          , OBQ size : 3
+Starting Channel 2
+Start Channel : 1 IOI 5
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 42
+Inside simulation
+FLag of channel 1 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 43
+Inside simulation
+FLag of channel 1 is busy and has time of : 2
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 44
+Inside simulation
+FLag of channel 1 is busy and has time of : 3
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 45
+Inside simulation
+FLag of channel 1 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 46
+Inside simulation
+FLag of channel 1 is busy and has time of : 5
+Channel 1 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 7
+Inside IRI3 with TASK : 1
+Inside IRI2 for :                                          , OBQ size : 2
+Starting Channel 2
+Start Channel : 1 IOI 5
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 47
+Inside simulation
+FLag of channel 1 is busy and has time of : 1
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 48
+Inside simulation
+FLag of channel 1 is busy and has time of : 2
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 49
+Inside simulation
+FLag of channel 1 is busy and has time of : 3
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 50
+Inside simulation
+FLag of channel 1 is busy and has time of : 4
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 5
+Inside IRI3 with TASK : 1
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:1  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+
+Entering Execute funtion
+No process in ready queue
+
+Exiting Execute funtion
+-------------------------------------------------------------
+
+Entering Simulation funtion
+Universal TImer : 51
+Inside simulation
+FLag of channel 1 is busy and has time of : 5
+Channel 1 finisihed
+
+Exiting Simulation funtion
+-------------------------------------------------------------
+
+Entering Master Mode funtion
+Inside master mode with PI : 0 : SI : 0 : TI : 0 IOI : 7
+Inside IRI3 with TASK : 1
+Inside IRI2 for :                                          , OBQ size : 1
+Starting Channel 2
+Start Channel : 1 IOI 5
+
+Inside IR1
+emptyQ is empty or eof = 1
+eof: 1
+
+Exiting Master Mode funtion
+-------------------------------------------------------------
+-----------while---------  EOF:1 ifbQ:0 ofbQ:0  LoadQ:0  ReadyQ:0  I/O Q:0  TerminateQ:0
+Main Memory : 
+
+0	0028	0001	____	____	____	____	____	____	____	____	
+10	____	____	____	____	____	____	____	____	____	____	
+20	____	____	____	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	____	____	____	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+
+Drum Memory : 
+
+0	GD10	PD10	H___	____	____	____	____	____	____	____	
+10	HELL	O_WO	rld_	____	____	____	____	____	____	____	
+20	HELL	O_WO	rld_	____	____	____	____	____	____	____	
+30	____	____	____	____	____	____	____	____	____	____	
+40	____	____	____	____	____	____	____	____	____	____	
+50	____	____	____	____	____	____	____	____	____	____	
+60	____	____	____	____	____	____	____	____	____	____	
+70	____	____	____	____	____	____	____	____	____	____	
+80	____	____	____	____	____	____	____	____	____	____	
+90	____	____	____	____	____	____	____	____	____	____	
+100	____	____	____	____	____	____	____	____	____	____	
+110	____	____	____	____	____	____	____	____	____	____	
+120	____	____	____	____	____	____	____	____	____	____	
+130	____	____	____	____	____	____	____	____	____	____	
+140	____	____	____	____	____	____	____	____	____	____	
+150	____	____	____	____	____	____	____	____	____	____	
+160	____	____	____	____	____	____	____	____	____	____	
+170	____	____	____	____	____	____	____	____	____	____	
+180	____	____	____	____	____	____	____	____	____	____	
+190	____	____	____	____	____	____	____	____	____	____	
+200	____	____	____	____	____	____	____	____	____	____	
+210	____	____	____	____	____	____	____	____	____	____	
+220	____	____	____	____	____	____	____	____	____	____	
+230	____	____	____	____	____	____	____	____	____	____	
+240	____	____	____	____	____	____	____	____	____	____	
+250	____	____	____	____	____	____	____	____	____	____	
+260	____	____	____	____	____	____	____	____	____	____	
+270	____	____	____	____	____	____	____	____	____	____	
+280	____	____	____	____	____	____	____	____	____	____	
+290	____	____	____	____	____	____	____	____	____	____	
+300	____	____	____	____	____	____	____	____	____	____	
+310	____	____	____	____	____	____	____	____	____	____	
+320	____	____	____	____	____	____	____	____	____	____	
+330	____	____	____	____	____	____	____	____	____	____	
+340	____	____	____	____	____	____	____	____	____	____	
+350	____	____	____	____	____	____	____	____	____	____	
+360	____	____	____	____	____	____	____	____	____	____	
+370	____	____	____	____	____	____	____	____	____	____	
+380	____	____	____	____	____	____	____	____	____	____	
+390	____	____	____	____	____	____	____	____	____	____	
+400	____	____	____	____	____	____	____	____	____	____	
+410	____	____	____	____	____	____	____	____	____	____	
+420	____	____	____	____	____	____	____	____	____	____	
+430	____	____	____	____	____	____	____	____	____	____	
+440	____	____	____	____	____	____	____	____	____	____	
+450	____	____	____	____	____	____	____	____	____	____	
+460	____	____	____	____	____	____	____	____	____	____	
+470	____	____	____	____	____	____	____	____	____	____	
+480	____	____	____	____	____	____	____	____	____	____	
+490	____	____	____	____	____	____	____	____	____	____	
